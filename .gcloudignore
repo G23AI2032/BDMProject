@@ -1,0 +1,7 @@
+.gcloudignore
+.git
+.gitignore
+__pycache__/
+test_locally.py
+function.log
+Dockerfile
